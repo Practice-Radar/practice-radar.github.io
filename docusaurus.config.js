@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'practice-radar.github.io',
+  url: 'https://practice-radar.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Practice-Radar', // Usually your GitHub org/user name.
+  organizationName: 'practice-radar', // Usually your GitHub org/user name.
   projectName: 'practice-radar.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
